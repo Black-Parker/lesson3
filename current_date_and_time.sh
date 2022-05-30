@@ -6,3 +6,7 @@ echo ""
 echo "Current date and time in Vilnius:"
 TZ='Europe/Vilnius' date
 echo ""
+echo "Current date and time in Warsaw:"
+TZ='Europe/Warsaw' date
+echo ""
+
