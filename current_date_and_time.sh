@@ -9,4 +9,7 @@ echo ""
 echo "Current date and time in Warsaw:"
 TZ='Europe/Warsaw' date
 echo ""
+echo "Current date and time in London:"
+TZ='Europe/London' date
+echo ""
 
